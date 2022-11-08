@@ -1,3 +1,5 @@
+# extract-endpoints
+
 Extract endpoints from source files.
 
 ```
