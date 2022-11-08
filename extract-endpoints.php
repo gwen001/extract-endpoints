@@ -1,6 +1,9 @@
 #!/usr/bin/php
 <?php
 
+# I don't believe in license.
+# You can do whatever you want with this program.
+
 function usage( $err=null ) {
 	echo 'Usage: php '.$_SERVER['argv'][0]." -f/-d <source file/directory> [OPTIONS]\n\n";
 	echo "Options:\n";
