@@ -24,3 +24,4 @@ Options:
 	-v	verbose mode: 0=all, 1=findings, 2=remove extra text
 ```
 
+<img src=""https://raw.githubusercontent.com/gwen001/extract-endpoints/main/preview.png />
