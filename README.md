@@ -23,3 +23,4 @@ Options:
 	-u	remove duplicates (at your own risk!)
 	-v	verbose mode: 0=all, 1=findings, 2=remove extra text
 ```
+
