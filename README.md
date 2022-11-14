@@ -2,6 +2,14 @@
 
 Extract endpoints from source files.
 
+## Install
+
+```
+git clone https://github.com/gwen001/extract-endpoints
+```
+
+## Usage
+
 ```
 Usage: php extract-endpoints.php -f/-d <source file/directory> [OPTIONS]
 
