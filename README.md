@@ -16,6 +16,10 @@
 
 ---
 
+## Description
+
+This PHP tool appplies regexps on files or recursively on directories in order to extract endpoints. This is quite useful to find API urls from JavaScript files. But all types of source file can be parsed (HTML, PHP, Javascript, Java...).
+
 ## Install
 
 ```
